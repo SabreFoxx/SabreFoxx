@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: Angular, Node.js, Relational Databases, Amazon Cloud Services, Game Development.
 - 📫 How to reach me: [/in/geraldnnebe](https://linkedin.com/in/geraldnnebe)
-- ⚡ Fun fact: I believe developing my own video game, powered by a decent artificial intelligence is playing God.
+- ⚡ Fun fact: I believe that developing my own video game, powered by a decent artificial intelligence system, is playing god.
 
 As an Angular engineer, I'm ready to build beautiful and performant web/mobile/desktop apps for your business, following good practices, clean code and utilizing all features of angular where needed, properly. Having great Node.js and SQL skills, coupled with my appreciable analytic and critical thinking skills, I am able to analyse your business problems, and build software that would provide a lasting solution to these. I solve problems using software. I know what I'm doing, that's why your app and web services will be fully available and secure in the cloud.
 
