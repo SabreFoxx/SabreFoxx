@@ -5,7 +5,7 @@
 </p>
 
 ---
-✨ I'm a Quality-oriented, software engineer with a degree in Computer Science, having 8+ years of software development experience, and at least 4 years of professional work experience.
+✨ I'm a Quality-oriented, software engineer with a degree in Computer Science, having 5+ years of professional work experience.
 
 - 💬 Ask me about: Angular, Node.js, Relational Databases, Amazon Cloud Services, Game Development.
 - 📫 Reach me on my [website](https://www.sabrefoxx.com)
