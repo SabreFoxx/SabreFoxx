@@ -1,7 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Gerald Nnebe</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/geraldnnebe">LinkedIn</a> •
-  <a href="https://twitter.com/Sabre_Foxx">Twitter</a>
+  <a href="https://linkedin.com/in/geraldnnebe">LinkedIn</a>
 </p>
 
 ---
